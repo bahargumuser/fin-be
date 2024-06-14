@@ -34,9 +34,11 @@
 
 ## Used Technologies
 
-cd finance-backend
+Node.js
 
-node server.js
+Express
+
+sqlite3
 
 ## Getting Started
 
